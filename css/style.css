@@ -2,9 +2,11 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 
+@import "./utilidades/componentes.css";
 
 @import "./global/header.css";
 
 @import "./home/introducao.css";
 
-@import "./utilidades/componentes.css";
+@import "./bicicletas/bicicletas-lista.css";
+
